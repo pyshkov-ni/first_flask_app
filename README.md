@@ -1,4 +1,4 @@
-# hellow_world_for_flask
+# first_flask_app
 First web-site using Flask for beginners
 
 This program serves as the first web page for students taking their first steps in programming.
