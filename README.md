@@ -8,11 +8,19 @@ This program serves as the first web page for students taking their first steps 
 
 virtualenv <name>
 
-2. Clone this repository
+2. Activate virtual environment
   
-git clone 
+source <name>/bin/activate  
+  
+3. Install flask
+  
+pip3 install flask
 
-3. Activate the script
+4. Clone this repository
+  
+git clone https://github.com/pyshkov-ni/first_flask_app.git
+
+5. Activate the script
   
 flask run
   
