@@ -3,11 +3,14 @@ First web-site using Flask for beginners
 
 This program serves as the first web page for students taking their first steps in programming.
 
-**For start:**
-1. Create a virtual environment on Linux <>
+**Instalation**
+1. Create a virtual environment on Linux
+  virtualenv <name>
 
-2. Pull the repository with <>
+2. Clone this repository
+  git clone 
 
-3. activate the script with <>
-
-**Examination**
+3. Activate the script
+  flask run
+  
+  Thanks to the flask development team for great framework and an example for the educational process!
