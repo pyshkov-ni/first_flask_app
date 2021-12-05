@@ -6,11 +6,11 @@ This program serves as the first web page for students taking their first steps 
 **Instalation**
 1. Create a virtual environment on Linux
 
-virtualenv <name>
+virtualenv _project_name_
 
 2. Activate virtual environment
   
-source <name>/bin/activate  
+source _project_name_/bin/activate  
   
 3. Install flask
   
