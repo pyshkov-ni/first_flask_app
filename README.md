@@ -5,12 +5,15 @@ This program serves as the first web page for students taking their first steps 
 
 **Instalation**
 1. Create a virtual environment on Linux
-  virtualenv <name>
+
+virtualenv <name>
 
 2. Clone this repository
-  git clone 
+  
+git clone 
 
 3. Activate the script
-  flask run
+  
+flask run
   
   Thanks to the flask development team for great framework and an example for the educational process!
